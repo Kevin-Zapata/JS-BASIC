@@ -7,3 +7,4 @@ function hey(){
     console.log("Hola " + miNombre);
 }
 var miNombre = "Diego" // Lo que pasa es que la funcion se ejecuta primero antes que la declaración de variables
+
