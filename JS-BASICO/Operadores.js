@@ -16,4 +16,5 @@
 a && b  // Ambas tienen que ser verdaderas, si no, no se cumplen
 a || b // Alguna tiene que ser verdad, se cumple la condicion
 var edad = 40
-edad++
+edad++ // incrementa el valor en uno 
+edad+= // Incrementa el valor en 2
